@@ -1,0 +1,28 @@
+{
+  "name": "@skpm/child_process",
+  "version": "0.1.0",
+  "description": "A drop-in replacement for the child_process NodeJS package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skpm/child_process.git"
+  },
+  "keywords": [
+    "sketch",
+    "module",
+    "child_process"
+  ],
+  "author": "Mathieu Dutour <mathieu@dutour.me> (http://mathieu.dutour.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skpm/child_process/issues"
+  },
+  "homepage": "https://github.com/skpm/child_process#readme",
+  "dependencies": {
+    "@skpm/events": "^0.1.0",
+    "cocoascript-class": "^0.1.2"
+  }
+}
