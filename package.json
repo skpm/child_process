@@ -1,10 +1,10 @@
 {
   "name": "@skpm/child_process",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A drop-in replacement for the child_process NodeJS package",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "skpm-test --enable-async --app=xcode"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/skpm/child_process#readme",
   "dependencies": {
-    "@skpm/events": "^0.1.0",
+    "@skpm/events": "^0.1.1",
     "cocoascript-class": "^0.1.2"
+  },
+  "devDependencies": {
+    "@skpm/test-runner": "^0.1.31"
   }
 }
