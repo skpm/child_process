@@ -21,9 +21,7 @@
     "url": "https://github.com/skpm/child_process/issues"
   },
   "homepage": "https://github.com/skpm/child_process#readme",
-  "dependencies": {
-    "cocoascript-class": "^0.1.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@skpm/test-runner": "^0.3.3",
     "eslint": "^5.7.0",
