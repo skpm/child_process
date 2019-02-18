@@ -4,7 +4,7 @@
   "description": "A drop-in replacement for the child_process NodeJS package",
   "main": "index.js",
   "scripts": {
-    "test": "skpm-test --app=latest"
+    "test": "skpm-test --app=xcode"
   },
   "repository": {
     "type": "git",
@@ -21,9 +21,11 @@
     "url": "https://github.com/skpm/child_process/issues"
   },
   "homepage": "https://github.com/skpm/child_process#readme",
-  "dependencies": {},
+  "dependencies": {
+    "@skpm/stream": "^0.1.4"
+  },
   "devDependencies": {
-    "@skpm/test-runner": "^0.3.3",
+    "@skpm/test-runner": "^0.3.10",
     "eslint": "^5.7.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0"
