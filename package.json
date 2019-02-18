@@ -21,9 +21,7 @@
     "url": "https://github.com/skpm/child_process/issues"
   },
   "homepage": "https://github.com/skpm/child_process#readme",
-  "dependencies": {
-    "@skpm/stream": "^0.1.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@skpm/test-runner": "^0.3.10",
     "eslint": "^5.7.0",
