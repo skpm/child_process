@@ -1,10 +1,10 @@
 {
   "name": "@skpm/child_process",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "A drop-in replacement for the child_process NodeJS package",
   "main": "index.js",
   "scripts": {
-    "test": "skpm-test --app=latest"
+    "test": "skpm-test"
   },
   "repository": {
     "type": "git",
@@ -21,9 +21,7 @@
     "url": "https://github.com/skpm/child_process/issues"
   },
   "homepage": "https://github.com/skpm/child_process#readme",
-  "dependencies": {
-    "cocoascript-class": "^0.1.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@skpm/test-runner": "^0.3.13",
     "eslint": "^5.7.0",
