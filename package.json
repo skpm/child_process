@@ -23,7 +23,7 @@
   "homepage": "https://github.com/skpm/child_process#readme",
   "dependencies": {},
   "devDependencies": {
-    "@skpm/test-runner": "^0.3.13",
+    "@skpm/test-runner": "^0.4.0",
     "eslint": "^5.7.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0"
