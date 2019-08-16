@@ -11,6 +11,9 @@ module.exports = {
     'no-underscore-dangle': 0,
     'prefer-arrow-callback': 0,
     'no-param-reassign': 0,
-    'eqeqeq': 0
+    eqeqeq: 0,
+    'operator-linebreak': 0,
+    'implicit-arrow-linebreak': 0,
+    'arrow-parens': 0
   }
 }
