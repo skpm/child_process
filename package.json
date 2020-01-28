@@ -1,6 +1,6 @@
 {
   "name": "@skpm/child_process",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "A drop-in replacement for the child_process NodeJS package",
   "main": "index.js",
   "scripts": {
@@ -23,10 +23,10 @@
   "homepage": "https://github.com/skpm/child_process#readme",
   "dependencies": {},
   "devDependencies": {
-    "@skpm/test-runner": "^0.4.0",
-    "eslint": "^5.7.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0"
+    "@skpm/test-runner": "^0.4.1",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.0"
   },
   "prettier": {
     "semi": false,
