@@ -1,6 +1,6 @@
 {
   "name": "@skpm/child_process",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "A drop-in replacement for the child_process NodeJS package",
   "main": "index.js",
   "scripts": {
